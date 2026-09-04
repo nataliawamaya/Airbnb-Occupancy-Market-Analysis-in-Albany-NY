@@ -35,10 +35,7 @@ The analysis identifies associations within the dataset, not causal relationship
 
 **Takeaway:** Superhost listings had substantially higher estimated occupancy and more consistent performance.
 
-Figure:
-
-<!-- INSERT: Estimates Occupancy by Superhost Status.png -->
-
+![Estimated Occupancy by Superhost Status](Outputs/Figures/Estimated-Occupancy-Superhost.png)
 ## 2. Occupancy Varies Significantly Across Neighborhoods
 
 Highest median estimated occupancy:
@@ -51,9 +48,7 @@ Highest median estimated occupancy:
 
 **Notable:** Second Ward achieved high occupancy despite having only a **28% Superhost rate**, suggesting factors beyond Superhost status may contribute to demand.
 
-Figure:
-
-<!-- INSERT: Top and bottom neighborhoods by median occupancy and superhost.png -->
+![Superhost neighborhoods](Outputs/Figures/superhost_occupancy.png)
 
 ## 3. Certain Amenities Are Associated With Large Occupancy Differences
 
@@ -69,9 +64,7 @@ Figure:
 
 **Note:** View/water access showed the largest difference but was available in only 33 listings.
 
-Figure:
-
-<!-- INSERT: Amenity Categories and Median Occupancy.png -->
+![Amenity Categories and Median Occupancy](Outputs/Figures/Amenity_Categories_and_Median_Occupancy.png)
 
 ## 🏠 What Else Did the Analysis Show?
 + Entire-place listings represented ~75% of the dataset and had the highest median occupancy.
@@ -80,9 +73,9 @@ Figure:
 + Geographic analysis showed no single city-wide pattern explaining occupancy.
 + High-performing neighborhoods differed in their Superhost composition, suggesting location and host performance should be evaluated together.
 
-Figure:
 
-<!-- INSERT: occupancy_static_map.png -->
+![Occupancy Map](Outputs/Figures/occupancy_static_map.png)
+
 
  ## 💡 Business Takeaways
 
